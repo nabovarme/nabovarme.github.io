@@ -27,6 +27,8 @@ Nabovarme is talking at 34th Chaos Communications Congress 34c3 2017 in Leipzig,
 A Delegation consisting of Stoffer, Emmerik and Johannes went there to promote the project and Christiania and maybe
 find new people that want to engage in the project.
 
-Watch the presentation live streamed [here](http://streaming.media.ccc.de/34c3/hallb) 
+Our talk has been mentioned by Spiegel as part of their `ten talks from around the world at the 34c3` read it [here](http://www.spiegel.de/netzwelt/netzpolitik/34c3-in-zehn-hacker-vortraegen-um-die-welt-a-1185129.html)
+
+Watch the presentation live streamed [here](http://streaming.media.ccc.de/34c3/hallb)
 
 View our [Presentation PDF](https://nabovarme.github.com/presentation.pdf)
