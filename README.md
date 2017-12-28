@@ -10,7 +10,7 @@ Our project has unlocked a broad range of devices so data and control now is in 
 
 ## Projects
 
-[## MeterLogger](https://github.com/nabovarme/MeterLogger)
+### [MeterLogger](https://github.com/nabovarme/MeterLogger)
 Meterlogger is our daughterboard to insert into Kamstrup meter devices to transmit samples to a remote MQTT server.
 
 [## MeterLogger](https://github.com/nabovarme/MeterLogger)
