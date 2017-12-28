@@ -26,3 +26,5 @@ PCB layout for the meterlogger daughterboard for impulse meters, typically elect
 Nabovarme is talking at 34th Chaos Communications Congress 34c3 2017 in Leipzig, Germany.
 A Delegation consisting of Stoffer, Emmerik and Johannes went there to promote the project and Christiania and maybe
 find new people that want to engage in the project.
+
+View our [Presentation PDF](https://nabovarme.github.com/presentation.pdf)
