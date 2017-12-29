@@ -4,8 +4,8 @@ Project “Nabovarme” (meaning “neighbour heating”) has transformed privat
 ![Handfull of Pellets](https://nabovarme.github.com/images/handfull_of_pellets.png)
 
 
-
 Our project has unlocked a broad range of devices so data and control now is in the hands of the users - and not sent out of the community.
+
 ![Liberation of Kamstrup Meter](https://nabovarme.github.com/images/kamstrup.png)
 
 ## Projects
@@ -29,6 +29,6 @@ find new people that want to engage in the project.
 
 Our talk has been mentioned by Spiegel as part of their `ten talks from around the world at the 34c3` read it [here](http://www.spiegel.de/netzwelt/netzpolitik/34c3-in-zehn-hacker-vortraegen-um-die-welt-a-1185129.html)
 
-Watch the presentation live streamed [here](http://streaming.media.ccc.de/34c3/hallb)
+Watch the presentation live streamed [here](http://streaming.media.ccc.de/34c3/hallb) at Dec 29th 13:45 GMT+1.
 
 View our [Presentation PDF](https://nabovarme.github.com/presentation.pdf)
