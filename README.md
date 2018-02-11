@@ -22,13 +22,16 @@ PCB layout for the meterlogger daughterboard
 ### [MeterLoggerImpulsePCB](https://github.com/nabovarme/MeterLoggerImpulsePCB)
 PCB layout for the meterlogger daughterboard for impulse meters, typically electricity meters.
 
+## Nabovarme in the media
+Our 34c3 talk has been mentioned by Spiegel as part of their `ten talks from around the world at the 34c3` read it [here](http://www.spiegel.de/netzwelt/netzpolitik/34c3-in-zehn-hacker-vortraegen-um-die-welt-a-1185129.html)
+
+Nabovarme has been featured in depth in the newspaper `Ingeniøren`, read the article [here](https://ing.dk/artikel/pa-christiania-har-de-hacket-sig-styr-pa-varmen-210448)
+
 ## Nabovarme at 34c3
 Nabovarme is talking at 34th Chaos Communications Congress 34c3 2017 in Leipzig, Germany.
 A Delegation consisting of Stoffer, Emmerik and Johannes went there to promote the project and Christiania and maybe
 find new people that want to engage in the project.
 
-Our talk has been mentioned by Spiegel as part of their `ten talks from around the world at the 34c3` read it [here](http://www.spiegel.de/netzwelt/netzpolitik/34c3-in-zehn-hacker-vortraegen-um-die-welt-a-1185129.html)
-
-Watch the presentation live streamed [here](http://streaming.media.ccc.de/34c3/hallb) at Dec 29th 13:45 GMT+1.
+Watch the presentation [here](https://www.youtube.com/watch?v=vYKmnAxDXVs).
 
 View our [Presentation PDF](https://nabovarme.github.com/presentation.pdf)
